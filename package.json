@@ -1,0 +1,23 @@
+{
+  "name": "Lab8",
+  "version": "1.0.0",
+  "description": "Cypress and Jest weren't working too well together so we've separated the two out in different parts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-c-lars/Lab8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-c-lars/Lab8/issues"
+  },
+  "homepage": "https://github.com/james-c-lars/Lab8#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
